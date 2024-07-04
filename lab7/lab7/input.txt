@@ -1,0 +1,2 @@
+if (a>b) then x=x+y;
+else x=x-y;
